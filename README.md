@@ -211,13 +211,21 @@ Run `WSLSleepManager.bat` as Administrator and choose **`2`**. This removes:
 
 ---
 
-## License
+## 📄 License
 
-MIT License — see [LICENSE](LICENSE)
+This project is **dual-licensed**:
 
-```
-Copyright (c) 2026 BMSoft1024 (Borsi Miklós)
-```
+![AGPL v3](https://img.shields.io/badge/license-AGPL%20v3-blue.svg)
+![Commercial](https://img.shields.io/badge/license-Commercial-green.svg)
+
+| Use case | License | Cost |
+|---|---|---|
+| Open-source projects | [AGPL v3](LICENSE-AGPL) | Free ✅ |
+| Commercial / closed-source | [Commercial License](LICENSE-COMMERCIAL) | Paid 💼 |
+
+> ⚠️ If you use this software in a **commercial or closed-source product**,
+> you must purchase a commercial license.
+> Contact: [support@bmsoft1024.com](mailto:support@bmsoft1024.com)
 
 ---
 
