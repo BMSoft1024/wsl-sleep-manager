@@ -211,21 +211,17 @@ Run `WSLSleepManager.bat` as Administrator and choose **`2`**. This removes:
 
 ---
 
-## 📄 License
+## License
 
-This project is **dual-licensed**:
-
-![AGPL v3](https://img.shields.io/badge/license-AGPL%20v3-blue.svg)
-![Commercial](https://img.shields.io/badge/license-Commercial-green.svg)
+The project is **dual-licensed**:
 
 | Use case | License | Cost |
 |---|---|---|
-| Open-source projects | [AGPL v3](LICENSE-AGPL) | Free ✅ |
-| Commercial / closed-source | [Commercial License](LICENSE-COMMERCIAL) | Paid 💼 |
+| Personal and private use by individuals | [AGPL v3](LICENSE-AGPL) | Free |
+| Open-source projects, education, research | [AGPL v3](LICENSE-AGPL) | Free |
+| Commercial or closed-source products and services | [Commercial License](LICENSE-COMMERCIAL) | Paid |
 
-> ⚠️ If you use this software in a **commercial or closed-source product**,
-> you must purchase a commercial license.
-> Contact: [support@bmsoft1024.com](mailto:support@bmsoft1024.com)
+Using the tool privately, on your own machines, does not oblige you to publish anything. If you distribute it or a modified version, or offer it to others as a network service, the AGPL v3 requires publishing the corresponding source code. For closed-source or commercial use without those obligations, a commercial license is required. Contact: [support@bmsoft1024.com](mailto:support@bmsoft1024.com). See [LICENSE](LICENSE) for the full text.
 
 ---
 

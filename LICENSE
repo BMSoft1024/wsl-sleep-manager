@@ -1,18 +1,26 @@
 Copyright (c) 2026 BMSoft1024 - Borsi Miklós
 https://bmsoft1024.com
 
-This software is dual-licensed:
+This software is dual-licensed. You may use it under whichever of the two
+licenses below fits your use.
 
-1. OPEN SOURCE LICENSE (AGPL v3)
-   Free to use for open-source projects under the terms of the
-   GNU Affero General Public License v3.0.
-   See LICENSE-AGPL for full terms.
+1. FREE USE (GNU AGPL v3)
+   You may use, copy, modify and distribute this software free of charge under
+   the terms of the GNU Affero General Public License v3.0 (see LICENSE-AGPL).
+   This covers, among others:
+   - personal and private use by individuals (using the software privately,
+     on your own machines and with your own tools and projects, does not
+     oblige you to publish anything),
+   - open-source projects,
+   - education and research.
+   If you distribute the software or a modified version of it, or let others
+   use it over a network as a service, the AGPL v3 requires you to make the
+   corresponding source code available under the same license.
 
 2. COMMERCIAL LICENSE
-   For use in closed-source, proprietary, or commercial products,
-   a paid commercial license is required.
-   See LICENSE-COMMERCIAL or contact: [support@bmsoft1024.com](mailto:support@bmsoft1024.com)
+   A paid commercial license is required to use this software in closed-source,
+   proprietary or commercial products or services without the obligations of
+   the AGPL v3.
+   See LICENSE-COMMERCIAL or contact: support@bmsoft1024.com
 
-If you use this software without purchasing a commercial license,
-you MUST comply with the AGPL v3 terms, including making your
-full source code publicly available.
+If you do not hold a commercial license, the AGPL v3 terms apply to you.
